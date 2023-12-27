@@ -8,4 +8,5 @@ huevo
 harina
 aceite
 vinagre
-
+5 manzanas 
+12 naranjas
